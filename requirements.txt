@@ -1,0 +1,18 @@
+# Autonomous Research Agent - Dependencies
+# Python 3.10+ compatible
+
+# Core Web & UI
+streamlit>=1.32.0
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+pandas>=2.2.0
+python-dotenv>=1.0.1
+
+# Language Model Integration
+google-genai>=0.1.1
+
+# Web Search
+duckduckgo-search>=5.0.0
+
+# Testing
+pytest>=8.0.0
